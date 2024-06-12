@@ -1,0 +1,24 @@
+/**************
+Theme Name: Your Project Name
+Theme Author: Ashraful Alam
+Author URI: https://facebook.com/webashrafians
+Tags: One page, portfolio website, portfolio template
+Description: This is a portfolio HTML template to create any kinds of portfolio website
+version: 1.0.0
+********************/
+
+// base files
+@import 'base/variables';
+@import 'base/mixin';
+
+// components files
+@import 'components/header';
+@import 'components/footer';
+@import 'components/breadcrumb';
+
+// theme files
+@import 'theme/animation';
+@import 'theme/theme-class';
+
+// pages files
+@import 'pages/index-1';
